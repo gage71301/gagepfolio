@@ -181,6 +181,10 @@ footer {
         font-size: 30px;
     }
     
+    .contactinfo {
+        width: 500px;
+    }
+    
     nav a:hover {
         color: #000;
     }
