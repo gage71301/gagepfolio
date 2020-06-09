@@ -52,6 +52,10 @@ li {
     color: white;
 }
 
+li a {
+    padding-bottom: 5px;
+}
+
 .contact {
     color: white;
 }
